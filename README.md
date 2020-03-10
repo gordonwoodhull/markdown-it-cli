@@ -1,2 +1,2 @@
 # markdown-it-cli
-Command line interface for markdown-it
+Command Line wrapper for `markdown-it`
