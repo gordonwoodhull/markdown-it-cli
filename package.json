@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI wrapper for markdown-it allowing to set options and add plugins",
   "main": "./lib/index.js",
   "repository": "git@github.com:kennyx46/markdown-it-cli.git",
